@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Gopika-9266/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122762773/cbe5ec69-0059-4f73-b154-1dff830a47ba)
 
 ### Output:
+![image](https://github.com/Gopika-9266/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122762773/1105e1ff-de14-4604-9f4f-41b6134f52d1)
 
 
-### Name:
-### Register Number:
+### Name: Gopika R
+### Register Number: 212222240031
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
